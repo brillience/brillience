@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Golang, Cloud Native**
 
-- 📝 I regularly write articles on [https://blog.xxx.xxx](https://blog.xxx.xxx)
+- 📝 I regularly write articles on [https://blog.xxx.xxx](https://brillience.github.io/)
 
 - 💬 Ask me about **Golang, NodeJS, Docker, Kubernetes, Cloud Native**
 
