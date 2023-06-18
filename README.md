@@ -4,8 +4,6 @@
 ---
 - 🧐 Back-end developer. Interested in full stack development.
 
-- 🎓 A graduate student majoring in computer science.
-
 - 🌱 I’m currently learning **Golang, Cloud Native**
 
 - 📝 I regularly write articles on [https://brillience.netlify.app/](https://brillience.netlify.app/)
