@@ -4,11 +4,11 @@
 ---
 - 🧐 Back-end developer. Interested in full stack development.
 
-- 🌱 I’m currently learning **Golang, Cloud Native**
+- 🌱 I’m currently learning **Golang, Java, Microservices**
 
 - 📝 I regularly write articles on [https://brillience.github.io/](https://brillience.github.io/)
 
-- 💬 Ask me about **Golang, NodeJS, Docker, Kubernetes, Cloud Native**
+- 💬 Ask me about **Golang, Java, Docker, Kubernetes, Cloud Native**
 
 - 📫 How to reach me **zxb6815@gmail.com**
 
