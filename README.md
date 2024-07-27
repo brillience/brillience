@@ -25,3 +25,6 @@ I code with :  👇
 ## 📊 Github stats
 
 ![](https://github-readme-stats.vercel.app/api?username=brillience&show_icons=true&theme=radical)
+
+## 🐶LeetCode status
+<img class="mx-auto my-0 rounded-md" src="https://leetcard.jacoblin.cool/brilliancer?theme=light&amp;font=Marvel&amp;site=cn&amp;cache=3600" alt="LeetCode Stats">
