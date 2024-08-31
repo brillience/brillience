@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Golang, Java, Docker, Kubernetes, Cloud Native**
 
-- 📫 How to reach me **zxb6815@gmail.com**
+- 📫 How to reach me **brillianceer@163.com**
 
 I code with :  👇
 
