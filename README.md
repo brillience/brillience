@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 , I'm Jared</h1>
-<h3 align="center">A backend developer</h3>
 
 ---
 - 🧐 Back-end developer. Interested in full stack development.
